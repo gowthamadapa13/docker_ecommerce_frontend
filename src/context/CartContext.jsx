@@ -1,6 +1,3 @@
-import { CartProvider } from "./context/CartContext"; 
-
-
 import React, { createContext, useContext, useState } from "react";
 
 const CartContext = createContext();
